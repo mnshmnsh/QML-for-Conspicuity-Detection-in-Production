@@ -30,9 +30,9 @@ Ensure your repository is public and submitted by **August 9, 2024, 23:59pm US E
 Ensure your repository does not contain any personal or team tokens/access information to access backends. Ensure your repository does not contain any third-party intellectual property (logos, company names, copied literature, or code). Any resources used must be open source or appropriately referenced.
 
 ### Team Information:
-Team Member 1: _(full name)_
- - Email:
- - Discord ID:
+Team Member 1: Hisham Mansour
+ - Email: mansouh@gmail.com
+ - Discord ID: mnsh12
  - GitHub ID:
  - Nationality:
  - Current affiliation:
