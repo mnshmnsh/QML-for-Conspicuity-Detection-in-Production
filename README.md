@@ -33,8 +33,8 @@ Ensure your repository does not contain any personal or team tokens/access infor
 Team Member 1: Hisham Mansour
  - Email: mansouh@gmail.com
  - Discord ID: mnsh12
- - GitHub ID:
- - Nationality:
+ - GitHub ID: mnshmnsh
+ - Nationality:Swiss
  - Current affiliation:
 
 Team Member 2: _(full name)_
@@ -45,7 +45,7 @@ Team Member 2: _(full name)_
  - Current affiliation:
 
 ### Project Solution:
-_Include a comprehensive summary of all important information about your project solution here._
+3 jupyter notebooks
 All necessary code files and any additional information required to judge your project solution should be included in the repository. 
 
 ### Project Presentation Deck:
